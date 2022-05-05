@@ -1,3 +1,14 @@
+# Changelog
+
+## Unreleases
+
+### Added
+
+### Changed 
+
+- display the TOTP secret key alongside the QR code to streamline setup for 
+  password managers without QR support. 
+
 ## 1.14.0
 
 ### Added
