@@ -10,7 +10,7 @@ from two_factor.views import (
 
 core = [
     path(
-        'account/login/',
+        'account/two_factor/login/',
         LoginView.as_view(),
         name='login',
     ),

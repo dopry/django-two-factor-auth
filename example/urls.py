@@ -39,6 +39,7 @@ urlpatterns = [
     path('', include(tf_urls)),
     path('', include(tf_twilio_urls)),
     path('', include('user_sessions.urls', 'user_sessions')),
+    path('account/', include('django.contrib.auth.urls')),
     path('admin/', admin.site.urls),
 ]
 
