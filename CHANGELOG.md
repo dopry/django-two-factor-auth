@@ -9,6 +9,9 @@
   
 ### Changed
 
+- display the TOTP secret key alongside the QR code to streamline setup for 
+  password managers without QR support. 
+
 ### Removed
 
 - Admin Monkey Patching
