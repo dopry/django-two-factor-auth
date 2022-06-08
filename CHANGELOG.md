@@ -70,6 +70,7 @@
 ### Removed
 
 - Python 3.5 and 3.6 support
+- Django 2.2, 3.0, and 3.1 support
 
 ## 1.13.2
 
